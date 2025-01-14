@@ -1,7 +1,4 @@
 # Gaussian-Blur-Project
-An image processing system which includes a Gaussian Blur hardware accelerator.
-
-
 This project is a Bachelor Studies Thesis project. It was done in a team of three people - my colleagues X and Y, each specialized in a different part of the project.
 
 This project implements a hardware-software system for counting free parking spaces in a bird' s-eye photograph of a parking lot. The system uses different image-processing techniques. One of these techniques - the Gaussian Blur, is accelerated by being implemented in hardware on an FPGA board. 
